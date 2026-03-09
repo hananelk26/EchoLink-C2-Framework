@@ -1,0 +1,32 @@
+# Visual Studio & C++ Directories (Ignore anywhere in the project)
+.vs/
+x64/
+x86/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio & C++ Specific Build Files
+*.exe
+*.obj
+*.pdb
+*.user
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+*.suo
+
+# Python & Flask
+instance/
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
